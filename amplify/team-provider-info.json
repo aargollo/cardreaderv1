@@ -10,6 +10,11 @@
       "StackName": "amplify-cardreaderv1-dev-193732",
       "StackId": "arn:aws:cloudformation:sa-east-1:216863624236:stack/amplify-cardreaderv1-dev-193732/2a69b3d0-b16f-11ed-920c-061034057504",
       "AmplifyAppId": "d3gas53ff1og26"
+    },
+    "categories": {
+      "auth": {
+        "cardreaderv1a5587447": {}
+      }
     }
   }
 }
