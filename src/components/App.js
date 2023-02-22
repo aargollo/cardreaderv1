@@ -4,7 +4,7 @@ import * as React from 'react'; // to fix error: React must be in scope when usi
 import {withAuthenticator} from '@aws-amplify/ui-react';
 import '@aws-amplify/ui-react/styles.css';
 
-import awsExports from './aws-exports';
+import awsExports from '../aws-exports';
 Amplify.configure(awsExports);
 
 function App({ signOut, user }) {
